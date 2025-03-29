@@ -18,8 +18,8 @@ A multi-functional PCB combining:
 ## Team Members  
 | Name              | Role                                  |  
 |-------------------|---------------------------------------|  
-| Bashar            | PCB Layout & 3D Modeling              |  
-| Umut              | Schematic Design & Simulation         |  
+| [bash227](https://github.com/bash227)| PCB Layout & 3D Modeling              |  
+| [UmutAygun](https://github.com/UmutAygun)| Schematic Design & Simulation         |  
 
 ---
 
