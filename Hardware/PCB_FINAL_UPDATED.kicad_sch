@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "263c633b-cb41-45d2-880d-6a8f280a113b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 88.9 38.1)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d734f6c-f540-4f31-89fd-d7bae643b30d")
+		(property "Sheetname" "ANALOG CIRCUIT"
+			(at 88.9 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ANALOG CIRCUIT.kicad_sch"
+			(at 88.9 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 38.1)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "630f623c-34a1-4e73-8b63-21d8cc0da513")
+		(property "Sheetname" "BATTERY CHARGER"
+			(at 50.8 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BATTERY CHARGER.kicad_sch"
+			(at 50.8 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 38.1)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "684b1f49-b941-4a74-a4ac-fb1e4f87a10d")
+		(property "Sheetname" "LED DRIVER CITCUIT"
+			(at 158.75 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED DRIVER CIRCUIT.kicad_sch"
+			(at 158.75 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 51.435 57.15)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "74cff76b-7957-4207-adc0-c51886b7f381")
+		(property "Sheetname" "POWER CIRCUIT"
+			(at 51.435 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER CIRCUIT.kicad_sch"
+			(at 51.435 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 57.15)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ad78e57-dfe6-4c7b-a710-a0c424359c59")
+		(property "Sheetname" "RELAY CIRCUIT"
+			(at 133.35 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RELAY CIRCUIT.kicad_sch"
+			(at 133.35 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 38.1)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a2054e65-46fd-4081-b8ba-aceae81d8201")
+		(property "Sheetname" "DC MOTOR"
+			(at 133.35 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC MOTOR.kicad_sch"
+			(at 133.35 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 57.15)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa0237ee-2efd-4003-8916-bc3cd42fa665")
+		(property "Sheetname" "DC HIGH POWER"
+			(at 88.9 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC HIGH POWER.kicad_sch"
+			(at 88.9 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_FINAL_UPDATED"
+				(path "/263c633b-cb41-45d2-880d-6a8f280a113b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
