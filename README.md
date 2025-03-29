@@ -10,7 +10,7 @@ A multi-functional PCB combining:
 - **Power Management** (3.6V Li-ion charging, ±5V/12V regulation)  
 - **Motor/Actuator Control** (BD6220F-E2 driver, relay circuits)  
 
-![PCB 3D Render](Documentation\Images\real.jpg)
+![PCB 3D Render](https://github.com/bash227/ECG-Motor-Control-Power-Management-PCB/blob/main/Documentation/Images/real.jpg?raw=true)
 
 
 ---
