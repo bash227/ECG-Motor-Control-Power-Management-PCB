@@ -26,13 +26,10 @@ A multi-functional PCB combining:
 ## Repository Structure  
 ```plaintext
 ECG_Motor_PCB/
-├── Hardware/
-│   ├── Schematics/
-│   │   ├── Analog/
-│   │   ├── Power/
-│   │   └── Motor/
-│   ├── PCB/
-│   └── 3D_Models/
+├── Hardware/ 
+│   │   
+│   ├── Outputs/
+│   └── 3D models/
 ├── Documentation/
 └── README.md
 ```
