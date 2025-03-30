@@ -67,7 +67,6 @@ KICAD8_3DMODEL_DIR = ${KIPRJMOD}/Hardware/3D_Models
 - Course: BME405 - Introduction to Medical Electronics Design
 - Institution: Ankara University
 
-- Submission Date: DD/MM/YYYY
 
 ## License
 
