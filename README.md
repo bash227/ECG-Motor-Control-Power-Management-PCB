@@ -41,8 +41,8 @@ ECG_Motor_PCB/
 - LMC7660 voltage inverter (+5V→-5V)
 
 ### ECG Frontend
-- INA188 instrumentation amplifier (G=1000)
-- 0.5Hz high-pass filter
+- INA188 instrumentation amplifier (G=10)
+- 0.05Hz high-pass filter
 - 50Hz notch filter
 
 ### Motor Control
